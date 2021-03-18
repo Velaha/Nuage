@@ -1,0 +1,13 @@
+drop table if exists joueur cascade;
+drop table if exists categorie cascade;
+drop table if exists entreprise cascade;
+drop table if exists jeu cascade;
+drop table if exists succes cascade;
+drop table if exists etre cascade;
+drop table if exists acheter cascade;
+drop table if exists obtenir cascade;
+drop table if exists commenter cascade;
+drop table if exists noter cascade;
+drop table if exists reapprovisionner cascade;
+drop table if exists amitie cascade;
+drop table if exists partager cascade;
